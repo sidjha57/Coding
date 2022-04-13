@@ -1,0 +1,1 @@
+{"name":"Local: bfs_and_dfs","url":"d:\\Coding\\bfs_and_dfs.cpp","tests":[{"id":1633677868656,"input":"6 6\n1 2\n2 3\n3 4\n4 2\n5 6\n6 5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\bfs_and_dfs.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: Colorful_Holi","url":"d:\\Coding\\Colorful_Holi.cpp","tests":[{"id":1634969133396,"input":"1\n5 1 15 5\n8 8 8 8 8","output":"5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\Colorful_Holi.cpp","group":"local","local":true}

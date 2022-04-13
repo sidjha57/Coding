@@ -1,0 +1,1 @@
+{"name":"Local: A_Two_Subsequences","url":"d:\\Coding\\A_Two_Subsequences.cpp","tests":[{"id":1635144701175,"input":"3\nfc\naaaa\nthebrightboiler\n","output":"c f\na aaa\nb therightboiler"},{"id":1635144921297,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\A_Two_Subsequences.cpp","group":"local","local":true}

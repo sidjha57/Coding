@@ -1,0 +1,998 @@
+1 Alice
+
+2 Bob
+
+3 Alice
+
+4 Alice
+
+5 Bob
+
+6 Bob
+
+7 Alice
+
+8 Alice
+
+9 Bob
+
+10 Alice
+
+11 Bob
+
+12 Alice
+
+13 Bob
+
+14 Bob
+
+15 Alice
+
+16 Alice
+
+17 Bob
+
+18 Alice
+
+19 Bob
+
+20 Alice
+
+21 Bob
+
+22 Alice
+
+23 Bob
+
+24 Alice
+
+25 Bob
+
+26 Alice
+
+27 Bob
+
+28 Alice
+
+29 Bob
+
+30 Bob
+
+31 Alice
+
+32 Alice
+
+33 Bob
+
+34 Alice
+
+35 Bob
+
+36 Alice
+
+37 Bob
+
+38 Alice
+
+39 Bob
+
+40 Alice
+
+41 Bob
+
+42 Alice
+
+43 Bob
+
+44 Alice
+
+45 Bob
+
+46 Alice
+
+47 Bob
+
+48 Alice
+
+49 Bob
+
+50 Alice
+
+51 Bob
+
+52 Alice
+
+53 Bob
+
+54 Alice
+
+55 Bob
+
+56 Alice
+
+57 Bob
+
+58 Alice
+
+59 Bob
+
+60 Alice
+
+61 Bob
+
+62 Bob
+
+63 Alice
+
+64 Alice
+
+65 Bob
+
+66 Alice
+
+67 Bob
+
+68 Alice
+
+69 Bob
+
+70 Alice
+
+71 Bob
+
+72 Alice
+
+73 Bob
+
+74 Alice
+
+75 Bob
+
+76 Alice
+
+77 Bob
+
+78 Alice
+
+79 Bob
+
+80 Alice
+
+81 Bob
+
+82 Alice
+
+83 Bob
+
+84 Alice
+
+85 Bob
+
+86 Alice
+
+87 Bob
+
+88 Alice
+
+89 Bob
+
+90 Alice
+
+91 Bob
+
+92 Alice
+
+93 Bob
+
+94 Alice
+
+95 Bob
+
+96 Alice
+
+97 Bob
+
+98 Alice
+
+99 Bob
+
+100 Alice
+
+101 Bob
+
+102 Alice
+
+103 Bob
+
+104 Alice
+
+105 Bob
+
+106 Alice
+
+107 Bob
+
+108 Alice
+
+109 Bob
+
+110 Alice
+
+111 Bob
+
+112 Alice
+
+113 Bob
+
+114 Alice
+
+115 Bob
+
+116 Alice
+
+117 Bob
+
+118 Alice
+
+119 Bob
+
+120 Alice
+
+121 Bob
+
+122 Alice
+
+123 Bob
+
+124 Alice
+
+125 Bob
+
+126 Bob
+
+127 Alice
+
+128 Alice
+
+129 Bob
+
+130 Alice
+
+131 Bob
+
+132 Alice
+
+133 Bob
+
+134 Alice
+
+135 Bob
+
+136 Alice
+
+137 Bob
+
+138 Alice
+
+139 Bob
+
+140 Alice
+
+141 Bob
+
+142 Alice
+
+143 Bob
+
+144 Alice
+
+145 Bob
+
+146 Alice
+
+147 Bob
+
+148 Alice
+
+149 Bob
+
+150 Alice
+
+151 Bob
+
+152 Alice
+
+153 Bob
+
+154 Alice
+
+155 Bob
+
+156 Alice
+
+157 Bob
+
+158 Alice
+
+159 Bob
+
+160 Alice
+
+161 Bob
+
+162 Alice
+
+163 Bob
+
+164 Alice
+
+165 Bob
+
+166 Alice
+
+167 Bob
+
+168 Alice
+
+169 Bob
+
+170 Alice
+
+171 Bob
+
+172 Alice
+
+173 Bob
+
+174 Alice
+
+175 Bob
+
+176 Alice
+
+177 Bob
+
+178 Alice
+
+179 Bob
+
+180 Alice
+
+181 Bob
+
+182 Alice
+
+183 Bob
+
+184 Alice
+
+185 Bob
+
+186 Alice
+
+187 Bob
+
+188 Alice
+
+189 Bob
+
+190 Alice
+
+191 Bob
+
+192 Alice
+
+193 Bob
+
+194 Alice
+
+195 Bob
+
+196 Alice
+
+197 Bob
+
+198 Alice
+
+199 Bob
+
+200 Alice
+
+201 Bob
+
+202 Alice
+
+203 Bob
+
+204 Alice
+
+205 Bob
+
+206 Alice
+
+207 Bob
+
+208 Alice
+
+209 Bob
+
+210 Alice
+
+211 Bob
+
+212 Alice
+
+213 Bob
+
+214 Alice
+
+215 Bob
+
+216 Alice
+
+217 Bob
+
+218 Alice
+
+219 Bob
+
+220 Alice
+
+221 Bob
+
+222 Alice
+
+223 Bob
+
+224 Alice
+
+225 Bob
+
+226 Alice
+
+227 Bob
+
+228 Alice
+
+229 Bob
+
+230 Alice
+
+231 Bob
+
+232 Alice
+
+233 Bob
+
+234 Alice
+
+235 Bob
+
+236 Alice
+
+237 Bob
+
+238 Alice
+
+239 Bob
+
+240 Alice
+
+241 Bob
+
+242 Alice
+
+243 Bob
+
+244 Alice
+
+245 Bob
+
+246 Alice
+
+247 Bob
+
+248 Alice
+
+249 Bob
+
+250 Alice
+
+251 Bob
+
+252 Alice
+
+253 Bob
+
+254 Bob
+
+255 Alice
+
+256 Alice
+
+257 Bob
+
+258 Alice
+
+259 Bob
+
+260 Alice
+
+261 Bob
+
+262 Alice
+
+263 Bob
+
+264 Alice
+
+265 Bob
+
+266 Alice
+
+267 Bob
+
+268 Alice
+
+269 Bob
+
+270 Alice
+
+271 Bob
+
+272 Alice
+
+273 Bob
+
+274 Alice
+
+275 Bob
+
+276 Alice
+
+277 Bob
+
+278 Alice
+
+279 Bob
+
+280 Alice
+
+281 Bob
+
+282 Alice
+
+283 Bob
+
+284 Alice
+
+285 Bob
+
+286 Alice
+
+287 Bob
+
+288 Alice
+
+289 Bob
+
+290 Alice
+
+291 Bob
+
+292 Alice
+
+293 Bob
+
+294 Alice
+
+295 Bob
+
+296 Alice
+
+297 Bob
+
+298 Alice
+
+299 Bob
+
+300 Alice
+
+301 Bob
+
+302 Alice
+
+303 Bob
+
+304 Alice
+
+305 Bob
+
+306 Alice
+
+307 Bob
+
+308 Alice
+
+309 Bob
+
+310 Alice
+
+311 Bob
+
+312 Alice
+
+313 Bob
+
+314 Alice
+
+315 Bob
+
+316 Alice
+
+317 Bob
+
+318 Alice
+
+319 Bob
+
+320 Alice
+
+321 Bob
+
+322 Alice
+
+323 Bob
+
+324 Alice
+
+325 Bob
+
+326 Alice
+
+327 Bob
+
+328 Alice
+
+329 Bob
+
+330 Alice
+
+331 Bob
+
+332 Alice
+
+333 Bob
+
+334 Alice
+
+335 Bob
+
+336 Alice
+
+337 Bob
+
+338 Alice
+
+339 Bob
+
+340 Alice
+
+341 Bob
+
+342 Alice
+
+343 Bob
+
+344 Alice
+
+345 Bob
+
+346 Alice
+
+347 Bob
+
+348 Alice
+
+349 Bob
+
+350 Alice
+
+351 Bob
+
+352 Alice
+
+353 Bob
+
+354 Alice
+
+355 Bob
+
+356 Alice
+
+357 Bob
+
+358 Alice
+
+359 Bob
+
+360 Alice
+
+361 Bob
+
+362 Alice
+
+363 Bob
+
+364 Alice
+
+365 Bob
+
+366 Alice
+
+367 Bob
+
+368 Alice
+
+369 Bob
+
+370 Alice
+
+371 Bob
+
+372 Alice
+
+373 Bob
+
+374 Alice
+
+375 Bob
+
+376 Alice
+
+377 Bob
+
+378 Alice
+
+379 Bob
+
+380 Alice
+
+381 Bob
+
+382 Alice
+
+383 Bob
+
+384 Alice
+
+385 Bob
+
+386 Alice
+
+387 Bob
+
+388 Alice
+
+389 Bob
+
+390 Alice
+
+391 Bob
+
+392 Alice
+
+393 Bob
+
+394 Alice
+
+395 Bob
+
+396 Alice
+
+397 Bob
+
+398 Alice
+
+399 Bob
+
+400 Alice
+
+401 Bob
+
+402 Alice
+
+403 Bob
+
+404 Alice
+
+405 Bob
+
+406 Alice
+
+407 Bob
+
+408 Alice
+
+409 Bob
+
+410 Alice
+
+411 Bob
+
+412 Alice
+
+413 Bob
+
+414 Alice
+
+415 Bob
+
+416 Alice
+
+417 Bob
+
+418 Alice
+
+419 Bob
+
+420 Alice
+
+421 Bob
+
+422 Alice
+
+423 Bob
+
+424 Alice
+
+425 Bob
+
+426 Alice
+
+427 Bob
+
+428 Alice
+
+429 Bob
+
+430 Alice
+
+431 Bob
+
+432 Alice
+
+433 Bob
+
+434 Alice
+
+435 Bob
+
+436 Alice
+
+437 Bob
+
+438 Alice
+
+439 Bob
+
+440 Alice
+
+441 Bob
+
+442 Alice
+
+443 Bob
+
+444 Alice
+
+445 Bob
+
+446 Alice
+
+447 Bob
+
+448 Alice
+
+449 Bob
+
+450 Alice
+
+451 Bob
+
+452 Alice
+
+453 Bob
+
+454 Alice
+
+455 Bob
+
+456 Alice
+
+457 Bob
+
+458 Alice
+
+459 Bob
+
+460 Alice
+
+461 Bob
+
+462 Alice
+
+463 Bob
+
+464 Alice
+
+465 Bob
+
+466 Alice
+
+467 Bob
+
+468 Alice
+
+469 Bob
+
+470 Alice
+
+471 Bob
+
+472 Alice
+
+473 Bob
+
+474 Alice
+
+475 Bob
+
+476 Alice
+
+477 Bob
+
+478 Alice
+
+479 Bob
+
+480 Alice
+
+481 Bob
+
+482 Alice
+
+483 Bob
+
+484 Alice
+
+485 Bob
+
+486 Alice
+
+487 Bob
+
+488 Alice
+
+489 Bob
+
+490 Alice
+
+491 Bob
+
+492 Alice
+
+493 Bob
+
+494 Alice
+
+495 Bob
+
+496 Alice
+
+497 Bob
+
+498 Alice
+
+499 Bob
+
